@@ -40,9 +40,9 @@
   version "0.7.0"
   resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-0.7.0.tgz#9a06f4f137ee84d7df0460c1fdb1135ffa6c50fd"
 
-"@types/google-apps-script@^0.0.30":
-  version "0.0.30"
-  resolved "https://registry.yarnpkg.com/@types/google-apps-script/-/google-apps-script-0.0.30.tgz#8a4412bc37f16e96f678acd6502fcef19bf6e2cc"
+"@types/google-apps-script@^0.0.32":
+  version "0.0.32"
+  resolved "https://registry.yarnpkg.com/@types/google-apps-script/-/google-apps-script-0.0.32.tgz#5eb4b520123e2084c93533b4ac82b0a8b1a3f1d6"
 
 agent-base@^4.1.0:
   version "4.2.1"
@@ -1629,6 +1629,10 @@ tsutils@^2.27.2:
 typescript@^2.9.2:
   version "2.9.2"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.9.2.tgz#1cbf61d05d6b96269244eb6a3bce4bd914e0f00c"
+
+typescript@^3.2.1:
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.2.1.tgz#0b7a04b8cf3868188de914d9568bd030f0c56192"
 
 ucfirst@^1.0.0:
   version "1.0.0"
