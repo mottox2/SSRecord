@@ -1,0 +1,10 @@
+{
+  "name": "ss-record",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "@google/clasp": "^1.6.3",
+    "@types/google-apps-script": "^0.0.30",
+    "tslint": "^5.11.0"
+  }
+}
