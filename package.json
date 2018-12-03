@@ -2,7 +2,7 @@
   "name": "ss-record",
   "version": "1.0.0",
   "license": "MIT",
-  "types": "./lib/index.d.ts",
+  "types": "./src/index.d.ts",
   "dependencies": {
     "@google/clasp": "^1.6.3",
     "@types/google-apps-script": "^0.0.32",
@@ -12,6 +12,6 @@
     "typescript": "^3.2.1"
   },
   "scripts": {
-    "build": "tsc --emitDeclarationOnly"
+    "build": "tsc --"
   }
 }
