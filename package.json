@@ -1,5 +1,5 @@
 {
-  "name": "ss-record",
+  "name": "ssrecord",
   "version": "1.0.0",
   "license": "MIT",
   "types": "./src/index.d.ts",
